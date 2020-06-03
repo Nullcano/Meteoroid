@@ -1,2 +1,2 @@
 # Meteoroid
-Frameworkless CSS and JS toolkit for an instant web application
+Frameworkless CSS and JS toolkit for instant web applications
